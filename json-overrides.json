@@ -32,7 +32,7 @@
         "peerio": {
             "appId": "com.medcryptor.staging",
             "keychainService": "MedCryptorStaging",
-            "socketServerUrl": "wss://hocuspocus.peerio.com",
+            "socketServerUrl": "wss://hocuspocus.peerio.com"
         }
     }
 }
