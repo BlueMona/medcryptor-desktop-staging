@@ -13,17 +13,7 @@
             "win": {
                 "publisherName": "Peerio Technologies Inc."
             }
-        }
-    },
-    "app/package.json": {
-        "name": "medcryptor-staging",
-        "productName": "MedCryptor Staging",
-        "description": "MedCryptor Staging",
-        "repository": {
-            "type": "git",
-            "url": "git+https://github.com/PeerioTechnologies/medcryptor-desktop-staging.git"
         },
-        "author": "Technologies Peerio Inc. <support@peerio.com>",
         "updater": {
             "manifests": [
                 "github:PeerioTechnologies/medcryptor-desktop-staging"
